@@ -16,15 +16,6 @@ body {
   gap: 4px;
 }
 
-link {
-  color: #2197ff;
-  text-decoration: none;
-}
-
-link:hover {
-  color: #222;
-}
-
 b {
   font-weight: bold;
 }
@@ -34,7 +25,7 @@ b {
   text-transform: uppercase;
   font-family: "pixel", arial;
   font-size: 12px;
-  color: #2197ff;
+  color: #006ee4;
   line-height: 12px;
   padding-top: 1px;
   padding-left: 4px;
@@ -65,16 +56,9 @@ b {
   border-top-left-radius: 30px;
 }
 
-.leftside {
-  background: #fff;
-}
-
 .content {
   background: #fff;
-}
-
-.rightside {
-  background: #fff;
+  color: #39a2ff;
 }
 
 .footer {
